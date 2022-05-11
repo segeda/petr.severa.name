@@ -1,9 +1,12 @@
 title: Petr Severa
 description: Osobní stránky
 lang: cs
+url: https://petr.severa.name/
 
-social_links:
-  twitter: segedacz
-  github: segeda
-  linkedin: petrsevera
-  keybase: segeda
+social:
+  name: Petr Severa
+  links:
+    - https://twitter.com/segedacz
+    - https://github.com/segeda
+    - https://www.linkedin.com/in/petrsevera
+    - https://keybase.io/segeda
