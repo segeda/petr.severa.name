@@ -1,10 +1,10 @@
 theme: minima
 title: Petr Severa
 description: Osobní stránky
+lang: cs
 
-minima:
-  social_links:
-    twitter: segedacz
-    github: segeda
-    linkedin: petrsevera
-    keybase: segeda
+social_links:
+  twitter: segedacz
+  github: segeda
+  linkedin: petrsevera
+  keybase: segeda
