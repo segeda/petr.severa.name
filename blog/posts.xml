@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:batch="http://schemas.google.com/gdata/batch" xmlns:gd="http://schemas.google.com/g/2005" xmlns:gs="http://schemas.google.com/spreadsheets/2006" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:sites="http://schemas.google.com/sites/2008" xmlns:dc="http://purl.org/dc/terms" xmlns:gAcl="http://schemas.google.com/acl/2007"><id>https://sites.google.com/feeds/content/severa.name/petr</id><updated>2022-05-16T11:01:33.880Z</updated><title>Posts of Blog</title><link rel="alternate" type="text/html" href="https://sites.google.com/feeds/content/severa.name/petr" /><link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr" /><link rel="http://schemas.google.com/g/2005#post" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr" /><link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/batch" /><link rel="self" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr?parent=5629753501699441306&amp;kind=announcement" /><generator version="1" uri="https://sites.google.com">Google Sites</generator><openSearch:startIndex>1</openSearch:startIndex><entry gd:etag="&quot;YD4peyY.&quot;"><id>https://sites.google.com/feeds/content/severa.name/petr/2285448038225446842</id><published>2010-02-22T15:05:18.709Z</published><updated>2010-11-02T22:25:26.767Z</updated><app:edited xmlns:app="http://www.w3.org/2007/app">2010-02-22T15:14:29.554Z</app:edited><category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#announcement" label="announcement" /><title>#prodam #koupim</title><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><p><abbr title="čti: nemusí to fungovat a pořád se to bude měnit">První verze</abbr> inzertní služby pomocí Twitteru. Jednoduchý výpis hashtagů <code>#prodam</code> a <code>#koupim</code> na <a href="http://prodam-koupim.adresa.info/" rel="nofollow">http://prodam-koupim.adresa.info/</a>.</p>
+<p>Služba vznikla spíš jako cvičení s <a href="http://jquery.com/" title="JQuery: The Write Less, Do More, JavaScript Library" rel="nofollow">JQuery</a> a s <a href="http://apiwiki.twitter.com/" title="Twitter API Wiki" rel="nofollow">Twitter API</a>.</p></div></td></tr></tbody></table></div></content><link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/5629753501699441306" /><link rel="alternate" type="text/html" href="https://sites.google.com/a/severa.name/petr/blog/prodam-koupim" /><link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="https://sites.google.com/feeds/revision/severa.name/petr/2285448038225446842" /><link rel="self" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/2285448038225446842" /><link rel="edit" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/2285448038225446842" /><author><name>Petr Severa</name><email>petr@severa.name</email></author><sites:pageName>prodam-koupim</sites:pageName><sites:revision>2</sites:revision></entry><entry gd:etag="&quot;YD8peyY.&quot;"><id>https://sites.google.com/feeds/content/severa.name/petr/7305581879967568053</id><published>2010-02-10T08:33:53.866Z</published><updated>2010-11-02T22:23:54.254Z</updated><app:edited xmlns:app="http://www.w3.org/2007/app">2010-02-10T08:42:32.053Z</app:edited><category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#announcement" label="announcement" /><title>Selenium RC 1.0.1 a Firefox 3.6</title><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><p>Spuštěný test se zastaví na <code>Preparing Firefox profile...</code></p>
+<p>Musí se opatchovat knihovna selenium-server.jar podle návodu na <a href="http://www.qaautomation.net/?p=15" title="Selenium RC 1.0.1 support for Firefox 3.6" rel="nofollow">QA Automation</a></p></div></td></tr></tbody></table></div></content><link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/5629753501699441306" /><link rel="alternate" type="text/html" href="https://sites.google.com/a/severa.name/petr/blog/selenium-firefox-patch" /><link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="https://sites.google.com/feeds/revision/severa.name/petr/7305581879967568053" /><link rel="self" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/7305581879967568053" /><link rel="edit" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/7305581879967568053" /><author><name>Petr Severa</name><email>petr@severa.name</email></author><sites:pageName>selenium-firefox-patch</sites:pageName><sites:revision>3</sites:revision></entry><entry gd:etag="&quot;YDkpeyY.&quot;"><id>https://sites.google.com/feeds/content/severa.name/petr/7781424098213509407</id><published>2010-02-08T14:12:53.965Z</published><updated>2010-11-02T22:19:27.738Z</updated><app:edited xmlns:app="http://www.w3.org/2007/app">2010-02-08T14:39:10.360Z</app:edited><category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#announcement" label="announcement" /><title>Navigace pro jednostránkový web - JQuery</title><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><p>Jako cvičení v jQuery vznikl "automatický generátor menu" pro jednostránkové weby.</p>
+<p>Nejdřív script do hlavičky:</p>
+<p><font size="1"><code>&lt;script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"&gt;&lt;/script&gt;</code><br />
+<code>&lt;script type="text/javascript"&gt;</code></font>
+<font size="1"><br />
+<code>&lt;!--</code></font>
+<font size="1"><br />
+</font>
+<font size="1"><code>    $(document).ready(</code><br />
+</font>
+<font size="1"><code>            function() {</code><br />
+</font>
+<font size="1"><code>                if (!window.location.hash) {</code><br />
+</font>
+<font size="1"><code>                    window.location.hash = $('div').get(0).id;</code><br />
+</font>
+<font size="1"><code>                }</code><br />
+</font>
+<font size="1"><code>               </code><br />
+</font>
+<font size="1"><code>                $('&lt;ul id=\"menu\"&gt;&lt;/ul&gt;').appendTo('body');</code><br />
+</font>
+<font size="1"><code>               </code><br />
+</font>
+<font size="1"><code>                $('div').each(</code><br />
+</font>
+<font size="1"><code>                        function() {</code><br />
+</font>
+<font size="1"><code>                            $('&lt;li&gt;&lt;a href=\"#' + $(this).get(0).id + '\"&gt;' + $(this).find('h2').text() + '&lt;/a&gt;&lt;/li&gt;').appendTo('#menu');</code><br />
+</font>
+<font size="1"><code>                        }</code><br />
+</font>
+<font size="1"><code>                );</code><br />
+</font>
+<font size="1"><code>   </code><br />
+</font>
+<font size="1"><code>                $('div').hide().filter(window.location.hash).show()</code><br />
+</font>
+<font size="1"><code>               </code><br />
+</font>
+<font size="1"><code>                $('#menu a').click(</code><br />
+</font>
+<font size="1"><code>                        function() {</code><br />
+</font>
+<font size="1"><code>                            $('div').hide().filter($(this).attr('href')).show();</code><br />
+</font>
+<font size="1"><code>                        }</code><br />
+</font>
+<font size="1"><code>                );</code><br />
+</font>
+<font size="1"><code>            }</code><br />
+</font>
+<font size="1"><code>    );</code><br />
+<code>--&gt;</code></font>
+<font size="1"><br />
+<code>&lt;/script&gt;</code></font>
+
+</p>
+<p>V těle stránky pak stačí jen:</p>
+<p><font size="1"><code>&lt;div id="prvni"&gt;</code><br />
+</font>
+<font size="1"><code>    &lt;h2&gt;První&lt;/h2&gt;</code><br />
+</font>
+<font size="1"><code>    &lt;p&gt;Lorem ipsum dolor sit amet ...&lt;/p&gt;</code><br />
+<code>&lt;/div&gt;</code></font>
+<font size="1"><br />
+<code>&lt;div id="druhy"&gt;</code></font>
+<font size="1"><br />
+</font>
+<font size="1"><code>    &lt;h2&gt;Druhý&lt;/h2&gt;</code><br />
+</font>
+<font size="1"><code>    &lt;p&gt;Lorem ipsum dolor sit amet ...&lt;/p&gt;</code><br />
+<code>&lt;/div&gt;</code></font>
+<font size="1"><br />
+<code>&lt;div id="treti"&gt;</code></font>
+<font size="1"><br />
+</font>
+<font size="1"><code>    &lt;h2&gt;Třetí&lt;/h2&gt;</code><br />
+</font>
+<font size="1"><code>    &lt;p&gt;Lorem ipsum dolor sit amet ...&lt;/p&gt;</code><br />
+<code>&lt;/div&gt;</code></font>
+
+</p></div></td></tr></tbody></table></div></content><link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/5629753501699441306" /><link rel="alternate" type="text/html" href="https://sites.google.com/a/severa.name/petr/blog/navigace-jquery" /><link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="https://sites.google.com/feeds/revision/severa.name/petr/7781424098213509407" /><link rel="self" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/7781424098213509407" /><link rel="edit" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/7781424098213509407" /><author><name>Petr Severa</name><email>petr@severa.name</email></author><sites:pageName>navigace-jquery</sites:pageName><sites:revision>5</sites:revision></entry><entry gd:etag="&quot;YDgpeyY.&quot;"><id>https://sites.google.com/feeds/content/severa.name/petr/3423579312893512975</id><published>2010-02-01T08:57:31.888Z</published><updated>2010-11-02T22:06:09.175Z</updated><app:edited xmlns:app="http://www.w3.org/2007/app">2010-02-08T14:40:47.798Z</app:edited><category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#announcement" label="announcement" /><title>Adresáře podle datumů - Bash</title><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><p>Malý bash script na roztřídění fotek do adresářů podle datumů.</p>
+<pre><code><font size="1">#!/bin/sh<br /><br />SAVEIFS=$IFS<br />IFS=$(echo -en "\n\b")<br /><br />echo "ZDROJ $1"<br />echo "CIL $2"<br /><br />ZDROJ=$1<br />CIL=$2<br /><br />for FILE in $ZDROJ/*.jpg $ZDROJ/*.avi $ZDROJ/*.thm; do<br />    if [ -f $FILE ]; then<br />        DATUM=$(date -r $FILE +%Y%m%d)<br />        if [ -d $CIL/$DATUM ]; then<br />            cp -a -v $FILE $CIL/$DATUM<br />        else<br />            mkdir $CIL/$DATUM<br />            cp -a -v $FILE $CIL/$DATUM<br />        fi<br />    fi<br />done<br /><br />IFS=$SAVEIFS<br /><br />exit 0<br /></font></code>
+</pre></div></td></tr></tbody></table></div></content><link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/5629753501699441306" /><link rel="alternate" type="text/html" href="https://sites.google.com/a/severa.name/petr/blog/adresare-podle-datumu-bash" /><link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="https://sites.google.com/feeds/revision/severa.name/petr/3423579312893512975" /><link rel="self" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/3423579312893512975" /><link rel="edit" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/3423579312893512975" /><author><name>Petr Severa</name><email>petr@severa.name</email></author><sites:pageName>adresare-podle-datumu-bash</sites:pageName><sites:revision>4</sites:revision></entry><entry gd:etag="&quot;YD8peyY.&quot;"><id>https://sites.google.com/feeds/content/severa.name/petr/7495121460435571206</id><published>2010-01-22T19:26:11.700Z</published><updated>2010-11-02T22:00:47.373Z</updated><app:edited xmlns:app="http://www.w3.org/2007/app">2010-01-22T19:30:35.419Z</app:edited><category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#announcement" label="announcement" /><title>Google AdSense</title><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><p>Zkusil jsem přidat na stránky reklamu přes Google AdSense. Chci se podívat jak se pracuje s reklamním programem Googlu.</p>
+<p>Stále nemůžu přijít na to, jak se dá změnit barva pozadí reklamy. Nějak se neřídí nastavením stránky.</p></div></td></tr></tbody></table></div></content><link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/5629753501699441306" /><link rel="alternate" type="text/html" href="https://sites.google.com/a/severa.name/petr/blog/google-adsense" /><link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="https://sites.google.com/feeds/revision/severa.name/petr/7495121460435571206" /><link rel="self" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/7495121460435571206" /><link rel="edit" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/7495121460435571206" /><author><name>Petr Severa</name><email>petr@severa.name</email></author><sites:pageName>google-adsense</sites:pageName><sites:revision>3</sites:revision></entry><entry gd:etag="&quot;YDspeyY.&quot;"><id>https://sites.google.com/feeds/content/severa.name/petr/3119692952565643311</id><published>2010-01-21T20:26:58.159Z</published><updated>2010-11-02T21:58:01.394Z</updated><app:edited xmlns:app="http://www.w3.org/2007/app">2010-01-22T19:10:44.222Z</app:edited><category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/sites/2008#announcement" label="announcement" /><title>Google weby</title><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><p>Rozhovor s Šuskou mně dovedl až k nápadu, vyzkoušet použít <abbr title="v originále Google Sites">Google weby</abbr>. Nepsat si vlastní <abbr title="Systém pro správu obsahu; Content Management System">CMS</abbr>, ale použít hotový. Třeba se to bude někdy hodit pro některé méně náročné weby.</p></div></td></tr></tbody></table></div></content><link rel="http://schemas.google.com/sites/2008#parent" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/5629753501699441306" /><link rel="alternate" type="text/html" href="https://sites.google.com/a/severa.name/petr/blog/google-weby" /><link rel="http://schemas.google.com/sites/2008#revision" type="application/atom+xml" href="https://sites.google.com/feeds/revision/severa.name/petr/3119692952565643311" /><link rel="self" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/3119692952565643311" /><link rel="edit" type="application/atom+xml" href="https://sites.google.com/feeds/content/severa.name/petr/3119692952565643311" /><author><name>Petr Severa</name><email>petr@severa.name</email></author><sites:pageName>google-weby</sites:pageName><sites:revision>7</sites:revision></entry></feed>
