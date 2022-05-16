@@ -2,6 +2,9 @@ title: Petr Severa
 description: Osobní stránky
 lang: cs
 
+plugins:
+  - jekyll-redirect-from
+
 social:
   name: Petr Severa
   links:
